@@ -1,0 +1,26 @@
+2022-05-20 00:05:58 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 00:05:881 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 00:05:524 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (0dba683d8dc23f435dc018f7a1ee18af)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 00:05:862 INFO  HomePage :53 - Clicking on 'Find a Dealer' link   [[ChromeDriver: chrome on WINDOWS (0dba683d8dc23f435dc018f7a1ee18af)] -> xpath: //a[contains(text(),'Find a Dealer')]]
+2022-05-20 00:05:547 INFO  FindDealerPage :34 - Verifying Car 'Make' in search result  Car DealersFind a Car Dealership Near You
+Showing 2459 Dealers
+powered by
+2022-05-20 00:05:481 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 00:05:669 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 00:05:431 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (79ccdf7b354c432a1686395cdd17ae84)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 00:05:341 INFO  HomePage :53 - Clicking on 'Find a Dealer' link   [[ChromeDriver: chrome on WINDOWS (79ccdf7b354c432a1686395cdd17ae84)] -> xpath: //a[contains(text(),'Find a Dealer')]]
+2022-05-20 00:05:838 INFO  FindDealerPage :34 - Verifying Car 'Make' in search result  Car DealersFind a Car Dealership Near You
+Showing 2459 Dealers
+powered by
+2022-05-20 00:05:675 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 00:05:397 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (0a07878d09d39e6e355954528009cc2c)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 00:05:684 INFO  HomePage :53 - Clicking on 'Find a Dealer' link   [[ChromeDriver: chrome on WINDOWS (0a07878d09d39e6e355954528009cc2c)] -> xpath: //a[contains(text(),'Find a Dealer')]]
+2022-05-20 00:05:776 INFO  FindDealerPage :34 - Verifying Car 'Make' in search result  Car DealersFind a Car Dealership Near You
+Showing 2459 Dealers
+powered by
+2022-05-20 00:05:647 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 00:05:299 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (160a9974d16cb069ac1c2bc19e8d4f03)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 00:05:147 INFO  HomePage :53 - Clicking on 'Find a Dealer' link   [[ChromeDriver: chrome on WINDOWS (160a9974d16cb069ac1c2bc19e8d4f03)] -> xpath: //a[contains(text(),'Find a Dealer')]]
+2022-05-20 00:05:311 INFO  FindDealerPage :34 - Verifying Car 'Make' in search result  Car DealersFind a Car Dealership Near You
+Showing 2459 Dealers
+powered by
